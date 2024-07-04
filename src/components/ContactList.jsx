@@ -17,7 +17,6 @@ const ContactList = () => {
   const filtredContacts = (ev) => {
     const inputText = ev.target.value;
     dispatch(change(inputText));
-    console.log(filterText);
   };
 
   return (
