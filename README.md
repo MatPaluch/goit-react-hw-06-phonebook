@@ -1,4 +1,6 @@
-# React + Vite
+# 'The hardest task' Refactory using REDUX and REDUX/toolkit
+
+## This project using React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
